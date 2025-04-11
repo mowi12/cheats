@@ -1,1 +1,1 @@
-# .cheats
+# cheats
